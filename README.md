@@ -1,3 +1,3 @@
 # recipe-oder
 
-Solution to order on instacart using recipe.
+Solution to order on instacart using recipes.
